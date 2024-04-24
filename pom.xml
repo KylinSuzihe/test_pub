@@ -20,7 +20,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>src.main.java.Controller</mainClass>
+                            <mainClass>Controller</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
